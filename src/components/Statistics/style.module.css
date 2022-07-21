@@ -1,0 +1,13 @@
+.statistics {
+    font-size: 20px;
+    /* background-color: #bada55; */
+    margin-bottom: 20px;
+}
+
+.stats{
+    margin-bottom: 10px;
+}
+
+.stats:last-child {
+    margin-bottom: 0;
+}
