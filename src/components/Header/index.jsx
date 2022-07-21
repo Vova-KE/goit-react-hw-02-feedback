@@ -1,7 +1,7 @@
-import styles from './style.module.css';
+// import styles from './style.module.css';
 
-const HeaderTitle = () => (
-    <p className={styles.title}>Please leave feedback</p>
-);
+// const HeaderTitle = () => (
+//     <p className={styles.title}>Please leave feedback</p>
+// );
 
-export default HeaderTitle;
+// export default HeaderTitle;
